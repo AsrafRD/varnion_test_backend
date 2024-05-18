@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+# Requires
+1. Project ini menggunakan laravel 10
+2. Php yang terinstall di device harus 8.2 keatas
+3. Project ini hanya sebagai backend
+
+4. Setelah melakukan clone github ini silahkan import file sql varnion_test.sql ke dalam database menggunakan php myadmin
+5. Setelah semua dilakukan silahkan jalankan dengan mengetikkan perintah "php artisan serve"
